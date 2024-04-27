@@ -1,0 +1,12 @@
+{
+  "name": "fun-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "commonjs",
+  "scripts": {
+    "start": "node app.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
