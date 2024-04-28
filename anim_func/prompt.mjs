@@ -1,4 +1,4 @@
-export const plum_1 = () => {
+const plum_1 = () => {
     var buttons = document.querySelectorAll('.action-button');
     var exp_1 = prompt("Masukkan exp 1");
     var exp_2 = prompt("Masukkan exp 2");
@@ -19,3 +19,4 @@ export const plum_1 = () => {
     }
 }
 
+plum_1();
